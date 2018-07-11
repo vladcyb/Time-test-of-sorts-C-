@@ -21,7 +21,7 @@ $ g++ -std=c++11 main.cpp -O3
 Run
 -
  Windows:
- `$ ./a`<br>
+ `$ a`<br>
  Linux: `$ ./a.out`
 
 
